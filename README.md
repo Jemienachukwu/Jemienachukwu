@@ -13,7 +13,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jemiejeffery)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jemieofoegbu@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=jemienachukwu&style=flat-square&color=7aa2f7&label=PROFILE+VIEWS)
 
 </div>
 
